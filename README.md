@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is I'm Imane
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Imane
 =================================================================================================================================
 
-<h3 align="center">a Full-Stack Web Developer in training</h3>
+a Full-Stack Web Developer in training
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <p align="center">I am specializing in the MERN stack (MongoDB, Express, React, Node.js). I build responsive, dynamic web applications from front to back, with clean code and user-focused design. Whether it's crafting sleek UIs or setting up powerful APIs, I'm passionate about turning ideas into fully functional digital experiences.</p>
