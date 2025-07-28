@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Imane — a Full-Stack Web Developer in training, specializing in the MERN stack (MongoDB, Express, React, Node.js). I build responsive, dynamic web applications from front to back, with clean code and user-focused design. Whether it's crafting sleek UIs or setting up powerful APIs, I'm passionate about turning ideas into fully functional digital experiences.</h1>
-<h3 align="center">"Full-Stack Developer Training – MERN Stack Projects"</h3>
+<h1 align="center">Hi 👋, I'm Imane — a Full-Stack Web Developer in training</h1>
+<h3 align="center">I am specializing in the MERN stack (MongoDB, Express, React, Node.js). I build responsive, dynamic web applications from front to back, with clean code and user-focused design. Whether it's crafting sleek UIs or setting up powerful APIs, I'm passionate about turning ideas into fully functional digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanetai4&label=Profile%20views&color=0e75b6&style=flat" alt="imanetai4" /> </p>
 
@@ -17,3 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imanetai4&show_icons=true&locale=en" alt="imanetai4" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanetai4&" alt="imanetai4" /></p>
+
