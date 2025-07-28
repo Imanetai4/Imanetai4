@@ -5,10 +5,10 @@
 ============================================================================================
 
 
-### <p align="center">🌱 MERN Stack | MongoDB • Express • React • Node.js</p>
+<p align="center">🌱 MERN Stack | MongoDB • Express • React • Node.js</p>
 
 
-###
+
 <p align="center">I am specializing in the MERN stack (MongoDB, Express, React, Node.js). I build responsive, dynamic web applications from front to back, with clean code and user-focused design. Whether it's crafting sleek UIs or setting up powerful APIs, I'm passionate about turning ideas into fully functional digital experiences.</p>
 
 - 🌍  I'm based in MOROCCO
