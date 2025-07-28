@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =================================================================================================================================
 
 <h3 align="center">a Full-Stack Web Developer in training</h3>
---------------------------------------
+--------------------------------------------------------------------------------------------------------------
 
 <p align="center">I am specializing in the MERN stack (MongoDB, Express, React, Node.js). I build responsive, dynamic web applications from front to back, with clean code and user-focused design. Whether it's crafting sleek UIs or setting up powerful APIs, I'm passionate about turning ideas into fully functional digital experiences.</p>
 
