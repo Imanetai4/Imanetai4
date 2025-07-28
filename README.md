@@ -2,7 +2,7 @@
 
 
 <h3 align="center"> <strong>a Full-Stack MERN Web Developer in training</strong></h3>
-============================================================================================
+========================================================================================
 
 
 ### <p align="center">🌱 MERN Stack | MongoDB • Express • React • Node.js</p>
