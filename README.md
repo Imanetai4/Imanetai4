@@ -1,4 +1,4 @@
-<h1 align="center">Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Imane</h1>
+<h1 align="center">Hi ! 🪄 My name is Imane</h1>
 =================================================================================================================================
 
 <h3 align="center"> <strong>a Full-Stack MERN Web Developer in training</strong></h3>
